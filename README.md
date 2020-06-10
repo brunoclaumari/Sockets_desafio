@@ -1,5 +1,10 @@
 # Sockets_desafio
 
+EC6 - Trabalho Desafio de Sockets
+
+Bruno de Sousa Silva - RA 082170034
+Paulo de Tarso ------- RA 082170024
+
 Product Version: NetBeans IDE 8.2 (Build 201609300101)
 Atualizações: O IDE NetBeans está atualizado para a versão NetBeans 8.2 Patch 2
 
